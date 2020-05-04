@@ -1,4 +1,4 @@
-# CHORD_Protocol
+# CHORD
 
 The following program simulates the CHORD (peer-to-peer) protocol.
      
