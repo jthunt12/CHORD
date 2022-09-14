@@ -13,9 +13,8 @@ The following program simulates the CHORD (peer-to-peer) protocol.
 
 For Additional info:         https: // en.wikipedia.org/wiki/Chord_(peer-to-peer)
     
-    ** I had the best luck when using 10-12 nodes for the diagram and giving "B" a value of 5 or 6
 
 ## Example Output 
-"** I had the best luck when using 10-12 nodes for the diagram and giving "B" a value of 5 or 6"
+** I had the best luck when using 10-12 nodes for the diagram and giving "B" a value of 5 or 6
 
 ![Capture02](https://user-images.githubusercontent.com/36526335/190203085-3029f921-0fe7-46d3-9994-b3b755934660.JPG)
