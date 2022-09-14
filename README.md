@@ -9,9 +9,13 @@ The following program simulates the CHORD (peer-to-peer) protocol.
      Chord specifies how keys are assigned to nodes, and how a node can discover the value for a given key 
      by first locating the node responsible for that key.
      
+![Chord_network](https://user-images.githubusercontent.com/36526335/190203240-e790b0e7-eda9-449e-abfd-dd1389887979.png)
 
-          https: // en.wikipedia.org/wiki/Chord_(peer-to-peer)
+For Additional info:         https: // en.wikipedia.org/wiki/Chord_(peer-to-peer)
     
     ** I had the best luck when using 10-12 nodes for the diagram and giving "B" a value of 5 or 6
+
+Example Output
+
 
 J. Troy Hunt
